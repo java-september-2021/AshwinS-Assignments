@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+
+body{
+	display: flex;
+	justify-content: space-around;
+}
+
+div{
+	width: 400px;
+	height: 400px;
+	padding: 300px 0 0 100px;
+}
+
+a{
+    font-weight: bold;
+}
+
+.time{
+	font-weight: bold;
+	font-size:100px;
+	color: green;
+	margin-top: 250px;
+}
+
+.date{
+	font-weight: bold;
+	font-size:100px;
+	color: blue;
+	margin-top: 250px;
+}
