@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+.Cat{
+	display: flex;
+	justify-content: space-between;
+}
+
+.Prod{
+	display: flex;
+	justify-content: space-between;
+}
+
+div{
+	width: 30%;
+}
